@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "npx mocha --require ts-node/register --ui bdd ./tests/**/*.test.ts",
-    "test:w": "npm run test -- --watch --watch-files ./tests/**/*.test.ts ./**/*.ts",
+    "test:w": "npm run test -- --watch --watch-files ./tests/**/*.test.ts,./**/*.ts",
     "pretest": "chmod 0777 ./node_modules/mocha/bin/mocha.js"
   },
   "keywords": [],
