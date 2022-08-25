@@ -14,4 +14,5 @@ Assembler Interpreter II: https://www.codewars.com/kata/58e61f3d8ff24f774400002c
 
 ### TypeScript
 
-Esolang Interpreter I (MiniStringF**k): https://www.codewars.com/kata/586dd26a69b6fd46dd0000c0
+Esolang Interpreter I (MiniStringF`**`k): https://www.codewars.com/kata/586dd26a69b6fd46dd0000c0
+Esolang Interpreter II (Smallf`**`k): https://www.codewars.com/kata/esolang-interpreters-number-2-custom-smallfuck-interpreter
