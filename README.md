@@ -12,6 +12,10 @@ Game of Life
 
 LiveData: https://www.codewars.com/kata/5e388662a9ca160021b7a7c1
 
+Roboscript #1 - Syntax Highlighting: https://www.codewars.com/kata/58708934a44cfccca60000c4
+
+Roboscript #2 - Implementation of RS1 Specification: https://www.codewars.com/kata/58708934a44cfccca60000c4
+
 ### JavaScript
 
 Assembler Interpreter II: https://www.codewars.com/kata/58e61f3d8ff24f774400002c
