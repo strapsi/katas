@@ -10,6 +10,8 @@ Simple Assembler Interpreter: https://www.codewars.com/kata/58e24788e24ddee28e00
 
 Game of Life
 
+LiveData: https://www.codewars.com/kata/5e388662a9ca160021b7a7c1
+
 ### JavaScript
 
 Assembler Interpreter II: https://www.codewars.com/kata/58e61f3d8ff24f774400002c
