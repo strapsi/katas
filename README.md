@@ -16,6 +16,8 @@ Roboscript #1 - Syntax Highlighting: https://www.codewars.com/kata/58708934a44cf
 
 Roboscript #2 - Implementation of RS1 Specification: https://www.codewars.com/kata/58708934a44cfccca60000c4
 
+Roboscript #3 - Implementation of RS2 Specification: https://www.codewars.com/kata/58738d518ec3b4bf95000192
+
 ### JavaScript
 
 Assembler Interpreter II: https://www.codewars.com/kata/58e61f3d8ff24f774400002c
