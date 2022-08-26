@@ -1,4 +1,4 @@
-const assemblerInterpreter = require('../assemblerII');
+const assemblerInterpreter = require('../src/assemblerII');
 
 describe('assembler II tests', () => {
     it('should return -1 without end statement', () => {
