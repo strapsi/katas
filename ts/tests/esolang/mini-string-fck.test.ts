@@ -1,5 +1,5 @@
 import {describe} from 'mocha';
-import {myFirstInterpreter} from '../../esolang/mini-string-fck';
+import {myFirstInterpreter} from '../../src/esolang/mini-string-fck';
 import {expect} from 'chai';
 
 describe('mini string fck test', () => {

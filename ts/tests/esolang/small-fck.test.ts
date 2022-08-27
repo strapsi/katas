@@ -1,6 +1,6 @@
 import {describe} from 'mocha';
 import {expect} from 'chai';
-import {interpreter} from '../../esolang/small-fck';
+import {interpreter} from '../../src/esolang/small-fck';
 
 
 describe('small fck test', () => {
