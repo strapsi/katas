@@ -7,7 +7,7 @@ echo "$type $name"
 
 if [ ! -d "./$type" ]; then
   echo "creating new language directory $type"
-  mkdir $type
+  mkdir "$type"
 fi
 
 case $type in
