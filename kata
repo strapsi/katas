@@ -1,0 +1,32 @@
+#!/bin/bash
+
+type=$1
+name=$2
+
+echo "$type $name"
+
+if [ ! -d "./$type" ]; then
+  echo "creating new language directory $type"
+  mkdir $type
+fi
+
+case $type in
+js)
+  touch "./js/src/$name.js"
+  echo -e "const func = () => {}\n module.exports = func;" >"./js/src/$name.js"
+  touch "./js/spec/$name.spec.js"
+  echo -e "describe('test', () => {});" >"./js/spec/$name.spec.js"
+  ;;
+ts)
+  touch "./ts/src/$name.ts"
+  echo "export const func = () => {}" >"./ts/src/$name.ts"
+  touch "./ts/tests/$name.test.ts"
+  echo -e "describe('test', () => {});" >"./ts/tests/$name.test.ts"
+  ;;
+kotlin)
+  touch "./kotlin/src/main/kotlin/de/maxpower/$name.kt"
+  echo -e "package de.maxpower \n fun kata() {}" >"./kotlin/src/main/kotlin/de/maxpower/$name.kt"
+  touch "./kotlin/src/test/kotlin/de/maxpower/${name}Test.kt"
+  echo -e "package de.maxpower \n internal class ${name}Test {}" >"./kotlin/src/test/kotlin/de/maxpower/${name}Test.kt"
+  ;;
+esac

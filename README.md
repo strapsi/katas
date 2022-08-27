@@ -2,6 +2,14 @@
 - [JavaScript](#JavaScript)
 - [TypeScript](#TypeScript)
 
+### Create a new Kata
+```shell
+bash kata [js|kotlin|ts] <name>
+# e.g.
+bash kata js fastest-way
+bash kata kotlin OptimalPrizeCalculator
+```
+
 # Katas
 
 ### Kotlin
