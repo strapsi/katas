@@ -1,4 +1,4 @@
-package de.maxpower.simpleassembler
+package de.maxpower
 
 import org.junit.jupiter.api.Test
 import strikt.api.expectThat

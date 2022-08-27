@@ -1,4 +1,4 @@
-package de.maxpower.simpleassembler
+package de.maxpower
 
 fun value(param: String, registers: Map<String, Int>): Int = param.toIntOrNull() ?: registers[param] ?: -1
 fun interpretInstruction(
