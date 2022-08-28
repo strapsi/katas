@@ -26,6 +26,8 @@ Roboscript #2 - Implementation of RS1 Specification: https://www.codewars.com/ka
 
 Roboscript #3 - Implementation of RS2 Specification: https://www.codewars.com/kata/58738d518ec3b4bf95000192
 
+Molecules to Atoms: https://www.codewars.com/kata/52f831fa9d332c6591000511
+
 ### JavaScript
 
 Assembler Interpreter II: https://www.codewars.com/kata/58e61f3d8ff24f774400002c
