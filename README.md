@@ -39,3 +39,5 @@ Esolang Interpreter II (Smallf`**`k): https://www.codewars.com/kata/esolang-inte
 Pagination Control: https://www.codewars.com/kata/57a7cb5f53ba3350c60000e7
 
 Bob's Reversing Obfuscator: https://www.codewars.com/kata/559ee79ab98119dd0100001d
+
+Ranges of Numbers in Array: https://www.codewars.com/kata/58ab002d68ee07c57b000118
