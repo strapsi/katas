@@ -37,3 +37,5 @@ Esolang Interpreter I (MiniStringF`**`k): https://www.codewars.com/kata/586dd26a
 Esolang Interpreter II (Smallf`**`k): https://www.codewars.com/kata/esolang-interpreters-number-2-custom-smallfuck-interpreter
 
 Pagination Control: https://www.codewars.com/kata/57a7cb5f53ba3350c60000e7
+
+Bob's Reversing Obfuscator: https://www.codewars.com/kata/559ee79ab98119dd0100001d
