@@ -43,3 +43,5 @@ Pagination Control: https://www.codewars.com/kata/57a7cb5f53ba3350c60000e7
 Bob's Reversing Obfuscator: https://www.codewars.com/kata/559ee79ab98119dd0100001d
 
 Ranges of Numbers in Array: https://www.codewars.com/kata/58ab002d68ee07c57b000118
+
+Functional SQL: https://www.codewars.com/kata/545434090294935e7d0010ab
