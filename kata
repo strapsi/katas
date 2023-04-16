@@ -21,7 +21,7 @@ ts)
   touch "./ts/src/$name.ts"
   echo "export const func = () => {}" >"./ts/src/$name.ts"
   touch "./ts/tests/$name.test.ts"
-  echo -e "{expect} from 'chai'; \n import {describe} from 'mocha'; \n describe('test', () => {});" >"./ts/tests/$name.test.ts"
+  echo -e "import {expect} from 'chai'; \n import {describe} from 'mocha'; \n describe('test', () => {});" >"./ts/tests/$name.test.ts"
   ;;
 kotlin)
   touch "./kotlin/src/main/kotlin/de/maxpower/$name.kt"

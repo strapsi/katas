@@ -4,8 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npx mocha --require ts-node/register --ui bdd --recursive ./tests/**/*.test.ts --recursive ./tests/*.test.ts",
-    "test:w": "npm run test -- --watch --watch-files ./tests/**/*.test.ts,./src/**/*.ts",
+    "test": "npx mocha --require ts-node/register --ui bdd",
+    "test:all": "npm run test -- --recursive ./tests/**/*.test.ts --recursive ./tests/*.test.ts",
+    "test:wa": "npm run test:all -- --watch --watch-files ./tests/**/*.test.ts,./src/**/*.ts",
+    "test:ws": "npm run test -- --watch  --watch-files ./tests/**/*.test.ts,./src/**/*.ts",
     "pretest": "chmod 0777 ./node_modules/mocha/bin/mocha.js"
   },
   "keywords": [],
