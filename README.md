@@ -32,6 +32,8 @@ Molecules to Atoms: https://www.codewars.com/kata/52f831fa9d332c6591000511
 
 Assembler Interpreter II: https://www.codewars.com/kata/58e61f3d8ff24f774400002c
 
+Lisp Style Generics: https://www.codewars.com/kata/526de57c8f428fc1fd000b8c
+
 ### TypeScript
 
 Esolang Interpreter I (MiniStringF`**`k): https://www.codewars.com/kata/586dd26a69b6fd46dd0000c0
