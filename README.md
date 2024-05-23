@@ -28,6 +28,8 @@ Roboscript #3 - Implementation of RS2 Specification: https://www.codewars.com/ka
 
 Molecules to Atoms: https://www.codewars.com/kata/52f831fa9d332c6591000511
 
+So Many Permutations: https://www.codewars.com/kata/5254ca2719453dcc0b00027d
+
 ### JavaScript
 
 Assembler Interpreter II: https://www.codewars.com/kata/58e61f3d8ff24f774400002c
